@@ -20,3 +20,15 @@ git push -u origin main
 ```
 **Located Dataset**
 (https://catalog.data.gov/dataset/fruit-and-vegetable-prices)
+
+**Install Necessary Projects**
+
+```python 
+ `py -m pip install`
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+
