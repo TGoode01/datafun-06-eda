@@ -27,7 +27,7 @@ This page provides instructions to copy a GitHub repository to a local machine.
 
 In your browser, view your GitHub repository.
 You should see your account name and the repo name in the browser address bar.
-For example, the URL to this repository (in my account) is <https://github.com/TGoode01/datafun-06-eda>.
+For example, the URL to this repository (in my account) is <https://github.com/denisecase/pro-analytics-01>.
 
 Verify you are working with a GitHub repository in YOUR account.
 Use `CTRL a` to select all and `CTRL c` to copy the URL to your clipboard. On Mac/Linux, use `CMD a` and `CMD c`.
@@ -45,5 +45,11 @@ The command works in PowerShell, bash, zsh, Git Bash, and more.
 ```shell
 git clone https://github.com/https://github.com/TGoode01/datafun-06-eda
 ```
+
+## Iris Dataset Visualization
+
+Here’s a pair plot of the Iris dataset:
+
+![Iris Pair Plot](iris_pairplot.png)
 
 
