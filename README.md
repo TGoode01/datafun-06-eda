@@ -53,3 +53,18 @@ Here’s a pair plot of the Iris dataset:
 ![Iris Pair Plot](iris_pairplot.png)
 
 
+## Dataset Description
+
+**Dataset Name:** Iris Flowers Dataset  
+**Source:** [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
+**Number of Records:** 150  
+
+**Columns and Descriptions:**
+
+| Column Name   | Description |
+|---------------|-------------|
+| SepalLengthCm | Length of the sepal in centimeters |
+| SepalWidthCm  | Width of the sepal in centimeters |
+| PetalLengthCm | Length of the petal in centimeters |
+| PetalWidthCm  | Width of the petal in centimeters |
+| Species       | Iris species (Setosa, Versicolor, Virginica) |
