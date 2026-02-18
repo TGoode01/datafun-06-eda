@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "datafun_06_eda"
+version = "0.1.0"
+description = "Exploratory Data Analysis of the Iris dataset"
+requires-python = ">=3.9"
+
+dependencies = [
+    "pandas",
+    "seaborn",
+    "matplotlib"
+]
+
+[project.urls]
+Homepage = "https://github.com/TGoode01/datafun-06-eda"
+Repository = "https://github.com/TGoode01/datafun-06-eda"
